@@ -1,5 +1,7 @@
 # Feeds 2 Pocket
 
+⚠️ [Pocket got shutdown down](https://support.mozilla.org/en-US/kb/future-of-pocket). This project no longer work 😔.
+
 ## Overview
 
 Feeds 2 Pocket fetches and store RSS items into [Pocket](https://getpocket.com/) for you to read later. Motivation for this project is to have a simple way to read my RSS feeds on my [Kobo e-reader](https://help.kobo.com/hc/en-us/articles/360017763753-Use-the-Pocket-App-with-your-Kobo-eReader).
